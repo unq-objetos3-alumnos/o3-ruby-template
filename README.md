@@ -1,11 +1,11 @@
 # Template de Proyecto Ruby para Objetos 3 (UNQ)
 
 
-# Setup
+## Setup
 
 La primera vez que clonen el repositorio deberan instalar las dependencias que ya tenemos definidas en Gemfile (rspec), para esto tienen que tener instalado `ruby` y `bundler`.
 
-Checkear que tengo ruby
+Checkear que tengo Ruby
 
 ```bash
 ruby -v
@@ -25,7 +25,7 @@ Ahora sí, instalamos con
 bundle install
 ```
 
-# Ejectuar los tests
+## Ejectuar los tests
 
 Desde consola
 
